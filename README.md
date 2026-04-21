@@ -78,6 +78,8 @@ https://discord.gg/RsPhcAd2
 
 WEB3 + AI + RWA + eCNH 融合生态的未来发展趋势，可以理解为“智能化全球金融网络”的形成。
 
+<img width="1004" height="567" alt="ecnh lab image" src="https://github.com/user-attachments/assets/9325aede-f712-476a-a8ad-5125abe1aa77" />
+
 
 <!--
 **ecnhlab/ecnhlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
