@@ -95,3 +95,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 地球eCNH公益网络
+
+互助基金 "全球人类共建共享 eCNH"
+
+基于 Solana + BNB 生态的完全透明链上互助网络，由 eCNH 驱动。100% 智能合约执行，公开不可篡改。
+
+<img width="911" height="449" alt="地球eCNH公益网络1 image" src="https://github.com/user-attachments/assets/5f64a20f-8c83-4699-a199-8d54beb3d369" />
+
+<img width="908" height="449" alt="地球eCNH公益网络 2 image" src="https://github.com/user-attachments/assets/4e3dfa6f-fbbc-4655-9833-5cc086a2660c" />
+
+<img width="891" height="449" alt="地球eCNH公益网络 3 image" src="https://github.com/user-attachments/assets/b05fe430-a95b-4d77-9c0b-99a361e2bd23" />
+
+<img width="803" height="553" alt=" 地球eCNH公益网络 4 image" src="https://github.com/user-attachments/assets/e40aa01f-b7f4-4c42-980f-dbdd51e99b2f" />
+
+https://e-public.base44.app/
